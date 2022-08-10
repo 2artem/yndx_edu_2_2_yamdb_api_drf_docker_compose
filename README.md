@@ -10,6 +10,7 @@ https://github.com/2artem/yndx_edu_2_1_yamdb_api_drf_command_project
 
 https://github.com/2artem/yndx_edu_5_foodgram_api_backend_docker_cl_cd_gitactions_react
 
+## Описание
 
 
 ### Переменные окружения для работы с базой данных
