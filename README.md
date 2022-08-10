@@ -2,9 +2,13 @@
 
 (infra_sp2 - спринт 15)
 
-## Ссылка на начальный проект:
+## Ссылка на начальный проект (с описанием):
 
 https://github.com/2artem/yndx_edu_2_1_yamdb_api_drf_command_project
+
+## Установка docker-compose, можно посмотреть в  разделе "Запуск приложения", пункт 2.
+
+https://github.com/2artem/yndx_edu_5_foodgram_api_backend_docker_cl_cd_gitactions_react
 
 
 
